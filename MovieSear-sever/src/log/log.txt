@@ -1,0 +1,14 @@
+insert order failed: seat 999 has been sold
+from json to structure
+5143fe02caa", "filmShowId":"5b374d995c8df541b6c5b202", "seatNum":"13"} from json to structure
+ to decode data  from json to structure
+ture
+tructure
+insert filmShow falied: failed to decode data {"filmId":"aa","cinemaId":"aa", "time":"aa"} from json to structure
+insert filmShow falied: failed to decode data {"filmId":"67","cinemaId":"5a","time":"aa"} from json to structure
+insert filmShow falied: failed to decode data {"filmId":"5affccc15c8df52403f0cf67","cinemaId":"5affdcfa5c8df52a03b67fa","time":"aa"} from json to structure
+o decode data {"filmId":"aa","cinemaId":"aa","time":"aa"} from json to structure
+insert filmShow falied: failed to decode data [{"filmId":"aa","cinemaId":"aa","time":"aa"}] from json to structure
+insert filmShow falied: failed to decode data {"filmId":"aa","cinemaId":"aa","time":"aa"} from json to structure
+insert filmShow falied: failed to decode data [{"filmId":"aa","cinemaId":"aa","time":"aa"}] from json to structure
+insert filmShow falied: failed to decode data {"filmId":"aa","cinemaId":"aa","time":"aa"} from json to structure
